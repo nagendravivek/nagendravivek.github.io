@@ -6,4 +6,3 @@ this is my website
 * COLLAGE NAME: sri vasavi engineering collage
 
 * BRANCH: ect
-
