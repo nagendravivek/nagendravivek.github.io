@@ -1,4 +1,4 @@
-# nagendravivek.gidhub.io
+# nagendravivek.github.io
 this is my website
 
 ## Education detils:
